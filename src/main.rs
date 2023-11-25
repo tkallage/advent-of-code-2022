@@ -1,5 +1,6 @@
-mod day_01_1;
+mod day_01_2;
+use day_01_2::main as run;
 
 fn main() {
-    crate::day_01_1::main("input_day1.txt");
+    run("input_day1.txt");
 }

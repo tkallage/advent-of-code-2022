@@ -1,9 +1,9 @@
-mod day02 {
-    pub mod part2;
+mod day03 {
+    pub mod part1;
 }
 
-use day02::part2::main as run;
+use day03::part1::main as run;
 
 fn main() {
-    run("input_day2.txt");
+    run("input_day3.txt");
 }

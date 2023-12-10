@@ -5,5 +5,5 @@ mod day03 {
 use day03::part2::main as run;
 
 fn main() {
-    run("input_day3.txt");
+    run("inputs/day3.txt");
 }

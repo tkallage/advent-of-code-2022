@@ -1,5 +1,5 @@
 mod days;
 
 fn main() {
-    days::day04::part1::main("inputs/day4_example.txt");
+    days::day04::part2::main("inputs/day4.txt");
 }
